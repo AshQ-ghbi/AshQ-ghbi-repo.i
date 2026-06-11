@@ -1,4 +1,4 @@
-# AshQ-ghbi-repo.i
+# AshQ-ghbi-about-me
 # Hi there 👋
 
 I'm **[Ashish Kumar]**, a B.Tech student in CS. I'm a passionate and analytical learner who loves exploring new technologies and solving real-world problems. I actively seek opportunities to apply my knowledge and grow as a developer.
